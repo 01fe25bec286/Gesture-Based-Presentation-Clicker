@@ -55,6 +55,7 @@ Bluetooth
 Laptop
      ↓
 Presentation Slide Control
+
 🖐️ Gesture Controls
 | Gesture       | Action         |
 | ------------- | -------------- |
@@ -62,6 +63,7 @@ Presentation Slide Control
 | Left Tilt     | Previous Slide |
 | Upward Tilt   | First Slide    |
 | Downward Tilt | Last Slide     |
+
 🔌 Communication
 
 The MPU6050 communicates with the ESP32 using the I²C interface.
